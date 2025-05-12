@@ -1,2 +1,2 @@
-# DS-P1
-first project of data structures class
+# DS-P2
+second project of data structures class
